@@ -556,7 +556,7 @@ function call(text) {
 	// DEBUG
 	//$.get(text, function(data, status){
         //console.log(status + "for : " + text);
-    //});
+    });
 }
 
 $("#main_headding").text("Result Ananlizer");
